@@ -7,6 +7,7 @@ Our goal is to make a robot arm that can write/draw. we will do this using a SCA
 
 ### Criteria and Constraints
 Criteria: 
+
 Constraints:
 
 ### Schedule
