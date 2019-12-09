@@ -1,8 +1,9 @@
 # Robot-Arm
 ## Planning
+### Goal
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/SCARA_right.gif" width="300" height="300" />
 
-## Schedule
+### Schedule
 | Date          | Asha          | Harrison      |
 | ------------- |:-------------:| -------------:|
 | December 6    | begin schedule | gather info and make a sketch     |
