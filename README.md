@@ -4,11 +4,10 @@
 Our goal is to make a robot arm that can write/draw. we will do this using a SCARA arm. The gif below is an example of what we would want our arm to do. Our robot arm will use 3 servos. 2 of them will be to move it in the x and y directions and the third wil move it up and down to be able to take the pencil/pen off the paper. 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/SCARA_right.gif" width="300" height="300" />
-<figcaption>
 
-    This image shows almost exactly what we want our arm to do. the only difference is that ours will have a third servo to be able to pick the pecil up. 
+This image shows almost exactly what we want our arm to do. the only difference is that ours will have a third servo to be able to pick the pecil up. 
 
-  </figcaption>
+
 
 
 ### Criteria and Constraints
