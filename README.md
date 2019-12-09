@@ -6,10 +6,10 @@ Our goal is to make a robot arm that can write/draw. we will do this using a SCA
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/SCARA_right.gif" width="300" height="300" />
 
 ### Criteria and Constraints
-Criteria: 
+#### Criteria: 
 - Write out the word "hello"
 
-Constraints:
+#### Constraints:
 - Time(We want to finish in February) 
 - I don't know how to make the servos move together to go to the right locations yet, but I plan to learn how to do this through research and just trying it out.
 
