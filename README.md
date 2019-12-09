@@ -1,14 +1,16 @@
 # Robot-Arm
 ## Planning
-### Goal
+### Description
 Our goal is to make a robot arm that can write/draw. we will do this using a SCARA arm. The gif below is an example of what we would want our arm to do
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/SCARA_right.gif" width="300" height="300" />
 
 ### Criteria and Constraints
 Criteria: 
+- Write out the word "hello"
 
 Constraints:
+- Time
 
 ### Schedule
 | Date          | Asha          | Harrison      |
