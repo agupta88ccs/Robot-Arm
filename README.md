@@ -9,6 +9,8 @@ This image shows almost exactly what we want our arm to do. the only difference 
 
 <img src="planning pics/sketch1.png" width="600px"/>
 
+this is a sketch of what the 3rd servo would look like and how it would pick the pencil up
+
 
 
 ### Criteria and Constraints
