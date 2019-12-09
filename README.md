@@ -10,7 +10,9 @@ Criteria:
 - Write out the word "hello"
 
 Constraints:
-- Time(We want to finish in February)
+- Time(We want to finish in February) 
+- I don't know how to make the servos move together to go to the right locations yet, but I plan to learn how to do this through research and just trying it out.
+
 
 ### Schedule
 | Date          | Asha          | Harrison      |
