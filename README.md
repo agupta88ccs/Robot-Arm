@@ -29,7 +29,6 @@ this is a sketch of what the 3rd servo would look like and how it would pick the
 | ------------- |:-------------:| -------------:|
 | December 6    | begin schedule | gather info and make a sketch     |
 | December 13   | complete schedule/plan and begin Solidworks  |complete plan and start coding  |
-| December 13   | complete schedule/plan and begin Solidworks  | complete plan and start coding  |
 | December 20   | tbd | tbd     |
 | January 10    | tbd  |   tbd    |
 | January 17    | tbd |   tbd    |
