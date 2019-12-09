@@ -10,7 +10,7 @@ Criteria:
 - Write out the word "hello"
 
 Constraints:
-- Time
+- Time(We want to finish in February)
 
 ### Schedule
 | Date          | Asha          | Harrison      |
