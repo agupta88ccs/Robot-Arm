@@ -1,4 +1,6 @@
 # Robot-Arm
+## Table of Contents
+* [Planning](Planning)
 ## Planning
 ### Description
 Our goal is to make a robot arm that can write/draw. we will do this using a SCARA arm. The gif below is an example of what we would want our arm to do. Our robot arm will use 3 servos. 2 of them will be to move it in the x and y directions and the third wil move it up and down to be able to take the pencil/pen off the paper. We will most likely use a button to make it start writing.
