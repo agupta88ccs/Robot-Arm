@@ -7,13 +7,12 @@ Our goal is to make a robot arm that can write/draw. we will do this using a SCA
 
 This image shows almost exactly what we want our arm to do. the only difference is that ours will have a third servo to be able to pick the pecil up. 
 
-<img src="planning pics/sketch1.png" width="500px"/>
+<img src="planning pics/sketch1.png" width="600px"/>
 
 this is a sketch of what the 3rd servo would look like and how it would pick the pencil up
 
-<img src="planning pics/sketch2.png" width="500px"/>
 
-This is a sketch of what the other two servos will look like and how they will be connected
+
 ### Criteria and Constraints
 #### Criteria: 
 - Write out the word "hello"
@@ -22,11 +21,18 @@ This is a sketch of what the other two servos will look like and how they will b
 #### Constraints:
 - Time(We want to finish in February) 
 - I don't know how to make the servos move together to go to the right locations yet, but I plan to learn how to do this through research and just trying it out
-- I don't yet know how i am going to use a third servo to pick up the pencil/pen, but i will again research this to figure it out(We decided to use a third servo attached to the pencil) 
+- I don't yet know how i am going to use a third servo to pick up the pencil/pen, but i will again research this to figure it out 
 
 ### Materials 
-- 3 servos
-- pencil
+- Servos
+- Arduino	($24.95)
+- Model Material ($2.43)
+- Support Material ($4.76)
+- #4-40 Socket Head Screws ($0.02)
+- Wire ($0.08)
+- Resistors	($0.04)
+- AA Battery Pack	($4.00)
+
 
 
 ### Schedule
