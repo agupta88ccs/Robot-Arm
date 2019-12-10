@@ -17,7 +17,7 @@ Make a Scara Arm write "Hello"
 ### Possible Solutions
 * Scara arm reader
 * X - Y coordinate array?
-* talk to max
+* talk to max ( make a web app to send the info)
 * just make it write hello only, using an array
 * more ideas here:
 
