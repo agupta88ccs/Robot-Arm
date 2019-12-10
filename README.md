@@ -24,7 +24,7 @@ this is a sketch of what the 3rd servo would look like and how it would pick the
 - I don't yet know how i am going to use a third servo to pick up the pencil/pen, but i will again research this to figure it out 
 
 ### Materials 
-- Servos
+- Servos 	($5.95)
 - Arduino	($24.95)
 - Model Material ($2.43)
 - Support Material ($4.76)
