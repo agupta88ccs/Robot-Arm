@@ -1,4 +1,5 @@
 # Robot-Arm
+### By Asha and Harrison
 ## Table of Contents
 * [Planning](#Planning)
    * [Description](#Description)
