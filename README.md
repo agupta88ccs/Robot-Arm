@@ -18,7 +18,9 @@ This image shows almost exactly what we want our arm to do. the only difference 
 
 this is a sketch of what the 3rd servo would look like and how it would pick the pencil up
 
+<img src="planning pics/sketch2.png" width="600px"/>
 
+this is a sketch of what the first 2 servos will look like and how they will be connected
 
 ### Criteria and Constraints
 #### Criteria: 
