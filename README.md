@@ -32,8 +32,9 @@ this is a sketch of what the 3rd servo would look like and how it would pick the
 - Wire ($0.08)
 - Resistors	($0.04)
 - AA Battery Pack	($4.00)
-
-
+ 
+### Scope
+This project will be difficult. the hard part will probably be the code because it willl be hard to get the servos to work together in order to make a vertical line. The design and solidworks part will also be difficult to be able to connect the servos together. 
 
 ### Schedule
 | Date          | Asha          | Harrison      |
