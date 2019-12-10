@@ -7,11 +7,11 @@ Our goal is to make a robot arm that can write/draw. we will do this using a SCA
 
 This image shows almost exactly what we want our arm to do. the only difference is that ours will have a third servo to be able to pick the pecil up. 
 
-<img src="planning pics/sketch1.png" width="600px"/>
+<img src="planning pics/sketch1.png" width="500px"/>
 
 this is a sketch of what the 3rd servo would look like and how it would pick the pencil up
 
-<img src="planning pics/sketch2.png" width="600px"/>
+<img src="planning pics/sketch2.png" width="500px"/>
 
 This is a sketch of what the other two servos will look like and how they will be connected
 ### Criteria and Constraints
