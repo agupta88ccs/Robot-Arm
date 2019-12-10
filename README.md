@@ -19,11 +19,10 @@ Make a Scara Arm write "Hello"
 * X - Y coordinate array?
 * talk to max ( make a web app to send the info)
 * just make it write hello only, using an array
-* more ideas here:
+
 
 ### Solution picked, and why:
-Tell us why the others were rejected. You can do that in the list above, like in parentheses or something (too much trig, needs a 2nd arm, etc).
-Tell us which you picked and why.
+We talked to Max and he helped brainstorm ideas with us. He helped us decide that a string of angles may be the best way to do this. He tried to figure out an equation to translate coordinates to angles but we couldn't figure that out. We have decided to just use a string of angles even though it may be difficult to get them all perfect and it may take time. We have also decided to just make it say one word like "hello" or "hi"
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/SCARA_right.gif" width="300" height="300" />
 
@@ -59,7 +58,7 @@ this is a sketch of what the first 2 servos will look like and how they will be 
 - Button($1.00-3.00)
  
 ### Scope
-This project will be difficult. the hard part will probably be the code because it willl be hard to get the servos to work together in order to make a vertical line. The design and solidworks part will also be difficult to be able to connect the servos together. We think that getting all the angles or coordinates perfect will be the hardest part because to do this we will have to have the servos work together perfectly.  
+This project will be difficult. the hard part will probably be the code because it willl be hard to get the servos to work together in order to make a vertical line. The design and solidworks part will also be difficult to be able to connect the servos together. We think that getting all the angles or coordinates perfect will be the hardest part because to do this we will have to have the servos work together perfectly. Asha will work on the solidrowks part and harrison will work on the code and angles problem. 
 
 ### Schedule
 | Date          | Asha          | Harrison      |
