@@ -59,7 +59,7 @@ this is a sketch of what the first 2 servos will look like and how they will be 
 - Button($1.00-3.00)
  
 ### Scope
-This project will be difficult. the hard part will probably be the code because it willl be hard to get the servos to work together in order to make a vertical line. The design and solidworks part will also be difficult to be able to connect the servos together. 
+This project will be difficult. the hard part will probably be the code because it willl be hard to get the servos to work together in order to make a vertical line. The design and solidworks part will also be difficult to be able to connect the servos together. We think that getting all the angles or coordinates perfect will be the hardest part because to do this we will have to have the servos work together perfectly.  
 
 ### Schedule
 | Date          | Asha          | Harrison      |
