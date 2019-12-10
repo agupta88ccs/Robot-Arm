@@ -11,6 +11,20 @@
 ### Description
 Our goal is to make a robot arm that can write/draw. we will do this using a SCARA arm. The gif below is an example of what we would want our arm to do. Our robot arm will use 3 servos. 2 of them will be to move it in the x and y directions and the third wil move it up and down to be able to take the pencil/pen off the paper. We will most likely use a button to make it start writing.
 
+### Stated Problem:
+Make a Scara Arm write "Hello"
+
+### Possible Solutions
+* Scara arm reader
+* X - Y coordinate array?
+* talk to max
+* just make it write hello only, using an array
+* more ideas here:
+
+### Solution picked, and why:
+Tell us why the others were rejected. You can do that in the list above, like in parentheses or something (too much trig, needs a 2nd arm, etc).
+Tell us which you picked and why.
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/SCARA_right.gif" width="300" height="300" />
 
 This image shows almost exactly what we want our arm to do. the only difference is that ours will have a third servo to be able to pick the pecil up. 
