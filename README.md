@@ -25,7 +25,8 @@ This is a sketch of what the other two servos will look like and how they will b
 - I don't yet know how i am going to use a third servo to pick up the pencil/pen, but i will again research this to figure it out 
 
 ### Materials 
-- 
+- 3 servos
+- pencil
 
 
 ### Schedule
