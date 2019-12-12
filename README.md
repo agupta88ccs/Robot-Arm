@@ -22,7 +22,7 @@ Make a Scara Arm write "Hello"
 
 
 ### Solution picked, and why:
-We talked to Max and he helped brainstorm ideas with us. He helped us decide that a string of angles may be the best way to do this. He tried to figure out an equation to translate coordinates to angles but we couldn't figure that out. We have decided to just use a string of angles even though it may be difficult to get them all perfect and it may take time. We have also decided to just make it say one word like "hello" or "hi"
+We talked to Max and he helped brainstorm ideas with us. He helped us fin the equations to convert coordinates into angles so we will you an array to pick the coordinates and map out the words and then have it write with that.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/SCARA_right.gif" width="300" height="300" />
 
