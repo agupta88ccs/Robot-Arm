@@ -26,6 +26,8 @@ We talked to Max and he helped brainstorm ideas with us. He helped us fin the eq
 
 <img src="planning pics/planning1.jpg" width="600px"/>
 
+This picture shows the equations we will use to be able to turn coordinates into angles for the servos
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/SCARA_right.gif" width="300" height="300" />
 
