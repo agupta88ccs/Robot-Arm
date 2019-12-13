@@ -70,10 +70,10 @@ This project will be difficult. the hard part will probably be the code because 
 | ------------- |:-------------:|:-------------:|
 | December 6    | begin schedule | gather info and make a sketch     |
 | December 13   | complete schedule/plan and begin Solidworks  |complete plan and start coding  |
-| December 20   | tbd | tbd     |
-| January 10    | tbd  |   tbd    |
-| January 17    | tbd |   tbd    |
-| January 24    |  tbd    | tbd  |
+| December 20   | begin Solidowrks | begin coding and figure out array     |
+| January 10    | continue building arm pieces  |   coding    |
+| January 17    | begin assembling arm and modifications |   coding    |
+| January 24    |  finish Solidworks assembly    | finsh coding |
 | January 31    |  print parts and laser cut |    print parts and laser cut       |
 | February 7    |  assembly      |   assembly      |
 | February 14   | troubleshooting   | troubleshooting   |
