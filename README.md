@@ -24,7 +24,7 @@ Make a Scara Arm write "Hello"
 ### Solution picked, and why:
 We talked to Max and he helped brainstorm ideas with us. He helped us fin the equations to convert coordinates into angles so we will you an array to pick the coordinates and map out the words and then have it write with that.
 
-<img src="planning pics/planning1.jpg" height="600px" />
+<img src="planning pics/planning1.0.jpg" height="600px" />
 
 This picture shows the equations we will use to be able to turn coordinates into angles for the servos
 
@@ -33,7 +33,7 @@ This picture shows the equations we will use to be able to turn coordinates into
 
 This image shows almost exactly what we want our arm to do. the only difference is that ours will have a third servo to be able to pick the pecil up. 
 
-<img src="planning pics/sketch1.0.png" width="600px"/>
+<img src="planning pics/sketch1.png" width="600px"/>
 
 this is a sketch of what the 3rd servo would look like and how it would pick the pencil up
 
