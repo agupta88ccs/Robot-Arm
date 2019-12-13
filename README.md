@@ -24,7 +24,7 @@ Make a Scara Arm write "Hello"
 ### Solution picked, and why:
 We talked to Max and he helped brainstorm ideas with us. He helped us fin the equations to convert coordinates into angles so we will you an array to pick the coordinates and map out the words and then have it write with that.
 
-<img src="planning pics/planning2.jpg" width="600px"/>
+<img src="planning pics/planning3.jpg" width="600px"/>
 
 This picture shows the equations we will use to be able to turn coordinates into angles for the servos
 
