@@ -42,6 +42,13 @@ this is a sketch of what the 3rd servo would look like and how it would pick the
 
 this is a sketch of what the first 2 servos will look like and how they will be connected
 
+### Resources
+- https://thestempedia.com/project/sketching-robot/
+- https://scribit.design/
+- https://www.dezeen.com/2017/05/25/small-affordable-robot-drawing-arm-computer-sketches-pen-paper-app-line-us/
+- https://www.kickstarter.com/projects/line-us/line-us-the-little-robot-drawing-arm
+- https://www.line-us.com/shop.html
+
 ### Criteria and Constraints
 #### Criteria: 
 - Write out the word "hello" using and array. if we have time we will do it using analog
