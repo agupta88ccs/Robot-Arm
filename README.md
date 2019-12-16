@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Planning](#Planning)
    * [Description](#Description)
+   * [Problem and Solution](#Stated-Problem:)
    * [Criteria and Constraints](#Criteria-and-Constraints)
    * [Materials and Costs](#Materials-and-Cost)
    * [Scope](#Scope)
