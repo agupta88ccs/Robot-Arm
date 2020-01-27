@@ -28,7 +28,7 @@ We talked to Max and he helped brainstorm ideas with us. He helped us fin the eq
 <img src="planning pics/planning1.0.jpg" height="600px" />
 
 This picture shows the equations we will use to be able to turn coordinates into angles for the servos. 
-#### Thwe equaton is wrong for c. You subtract on top not add
+#### The equaton is wrong for B. You subtract on top not add
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/SCARA_right.gif" width="300" height="300" />
