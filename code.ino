@@ -5,13 +5,13 @@ Servo myservo;
 Servo myservo2;
 Servo myservo3;
 
-int serv1h[] = {2115, 2200, 2110, 2110, 2110}; 
+int serv1h[] = {2115, 2200, 2110, 2110, 2110}; // All of these lines are the numbers in order for each servo for each letter
 int serv2h[] = {1100, 980, 1015, 950, 950}; 
 int serv3h[] = {1400, 1000, 1000, 1000, 1400};
 
-int serv1e[] = {2050, 1975, 1975, 2050, 2030, 1980, 1980};
+int serv1e[] = {2050, 1975, 1975, 2050, 2030, 1980, 1980}; 
 int serv2e[] = {1035, 1025, 1100, 1035, 975, 975, 975};
-int serv3e[] = {1400, 1000, 1000, 1000, 1000, 1000, 1400};
+int serv3e[] = {1400, 1000, 1000, 1000, 1000, 1000, 1400}; //picks up marker at beginning and end of the letter and in between its down and writing
 
 int serv1L[] = {1920, 1930, 1930};
 int serv2L[] = {1150,1030, 1030};
@@ -37,14 +37,14 @@ void setup()
   myservo2.writeMicroseconds(1100);               
   delay(300);                                    
   
- for (int i = 0; i < 5; i++){ 
+ for (int i = 0; i < 5; i++){  //The 5 is because there are 5 steps in h
   myservo3.writeMicroseconds(serv3h[i]);                
   delay(1000);                 
   //for ( int j = 0; j <100; j++);
   //{
    // int 1h = (serv1h[i]+serv1h[i+1])*j/100;
- // myservo.writeMicroseconds(serv1h[i]);              
-    //delay(10);
+ // myservo.writeMicroseconds(serv1h[i]);              // This is code that would hopefully make the writng more smooth 
+    //delay(10);                                       // by adding more points in between to be more accurate
     //int 2h = (serv2h[i]+serv2h[i+1])*j/100;
  // myservo.writeMicroseconds(serv2h[i]);              
    // delay(10);
@@ -82,9 +82,9 @@ void setup()
   myservo2.writeMicroseconds(serv2O[i]); 
   delay(1000);
  }  
-                     
+ // below is the original hard code before i made this simpler one                    
 }
-/*
+/* 
   myservo3.writeMicroseconds(1100); // pen up      // h
   myservo.writeMicroseconds(2115);                // h
   // myservo.writeMicroseconds(serv1h[0]);                // h
